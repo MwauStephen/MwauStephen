@@ -72,7 +72,7 @@
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MwauStephen&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daphneruth&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MwauStephen&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 <br>
 ![](https://komarev.com/ghpvc/?username=MwauStephen&color=green)
 <br>
