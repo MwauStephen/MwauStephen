@@ -3,7 +3,7 @@
 <!-- <img align="right" style="height:auto;" alt="" width="180" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/makaubenson">
 <p aligh="left"> -->
 
-  <p> Hello, I am Stephen Mwau an independent creative developer who believes in crafting applications and websites that live and run on the web.</br>I specialise in accessibility, performance and usability without sacrificing creativity.Co-founder of Devcore Africa.
+  <p> Hello, I am Stephen Mwau an independent creative developer who believes in crafting applications and websites that live and run on the web.</br>I specialise in accessibility, performance and usability without sacrificing creativity.
 
   <p>Portfolio:https://mwaustephen.com<p>
 
