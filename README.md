@@ -16,7 +16,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/_mwaustephen/)](https://www.linkedin.com/in/mwaustephen//) 
 
-[![Twitter Badge](https://img.shields.io/badge/-x-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/Stephen_M_Mwau)](https://x.com/Stephen_M_Mwau)
+[![Twitter Badge](https://img.shields.io/badge/-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://x.com/Stephen_M_Mwau)](https://x.com/Stephen_M_Mwau)
 
 [![Linktree Badge](https://img.shields.io/badge/-linktree_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linktree&logoColor=white&link=https://linktr.ee/mwaustephen)](https://linktr.ee/mwaustephen)
 
