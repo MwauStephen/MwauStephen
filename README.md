@@ -14,9 +14,11 @@
 
 <h2>🌐 &nbsp;Social Networks</h2>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/makaubenson/)](https://www.linkedin.com/in/makaubenson/) -->
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/_mwaustephen/)](https://www.linkedin.com/in/mwaustephen//) 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_makaubenson)](https://twitter.com/Stephen_M_Mwau)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mwaustephen)](https://twitter.com/Stephen_M_Mwau)
+
+[![Linktree Badge](https://img.shields.io/badge/-linktree_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linktree&logoColor=white&link=https://linktr.ee/mwaustephen)](https://linktr.ee/mwaustephen)
 
 </p>
 <hr/>
