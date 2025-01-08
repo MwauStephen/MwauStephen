@@ -5,7 +5,7 @@
 
   <p> Hello, I am Stephen Mwau an independent creative developer who believes in crafting applications and websites that live and run on the web.</br>I specialise in accessibility, performance and usability without sacrificing creativity.
 
-  <p>Portfolio:https://mwaustephen.com<p>
+  <p>Portfolio:https://mwaustephen.vercel.app/</p>
 
 📱 &nbsp; Feel free to reach out for any queries and gigs on `0727732542` or **_Email Me_** <stephenmwau41@gmail.com> \
 
